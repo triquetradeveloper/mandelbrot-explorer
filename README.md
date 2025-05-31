@@ -22,7 +22,8 @@
 
 **Live Demo:** 👉[View on GitHub Pages](https://kaleidoscopic-trifle-7de866.netlify.app/)
 
-![Mandelbrot Preview](preview.png)
+![Mandelbrot Preview](![image](https://github.com/user-attachments/assets/8327cc82-3a28-47ca-8d22-22d3ca4b180d)
+)
 
 > _Tip: Click to zoom in. Right-click or scroll to zoom out. Hit "Reset" to return._
 
