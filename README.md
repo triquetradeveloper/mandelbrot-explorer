@@ -20,7 +20,7 @@
 
 ## 🚀 Demo
 
-**Live Demo:** [View on GitHub Pages](https://kaleidoscopic-trifle-7de866.netlify.app/)
+**Live Demo:** 👉[View on GitHub Pages](https://kaleidoscopic-trifle-7de866.netlify.app/)
 
 ![Mandelbrot Preview](preview.png)
 
