@@ -33,5 +33,4 @@
 1. **Clone the repository:**
 
 ```bash
-[git clone https://github.com/your-username/mandelbrot-explorer.git
-cd mandelbrot-explorer](https://github.com/triquetradeveloper/mandelbrot-explorer.git)
+https://github.com/triquetradeveloper/mandelbrot-explorer.git
